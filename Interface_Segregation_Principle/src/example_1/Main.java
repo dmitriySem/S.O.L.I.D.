@@ -1,3 +1,5 @@
+package example_1;
+
 public class Main {
     public static void main(String[] args) {
         IWorker iWorker = new Cook();

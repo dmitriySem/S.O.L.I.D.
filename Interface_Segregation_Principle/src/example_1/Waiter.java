@@ -1,3 +1,5 @@
+package example_1;
+
 class Waiter implements Worker {
 
     @Override

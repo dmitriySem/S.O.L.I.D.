@@ -1,3 +1,5 @@
+package example_1;
+
 public class Cook implements IWorker {
 
     @Override

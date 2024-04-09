@@ -1,3 +1,5 @@
+package example_1;
+
 public class Rectangle implements Shape{
     int with;
     int height;

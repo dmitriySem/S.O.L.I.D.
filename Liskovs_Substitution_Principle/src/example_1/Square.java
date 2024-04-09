@@ -1,3 +1,5 @@
+package example_1;
+
 public class Square implements Shape{
     int wigh;
 

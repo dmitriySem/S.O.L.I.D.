@@ -1,3 +1,5 @@
+package example_1;
+
 public class Main {
     static Rectangle getRect(){
         return new Rectangle();
