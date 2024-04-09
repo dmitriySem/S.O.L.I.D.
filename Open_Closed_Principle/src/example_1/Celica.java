@@ -1,3 +1,5 @@
+package example_1;
+
 public class Celica extends Toyota {
     @Override
     public void workInTaxi(){

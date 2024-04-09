@@ -1,6 +1,8 @@
+package example_1;
+
 public class Main {
     public static void main(String[] args) {
-//        Toyota toyota = new Toyota();
+//        example_1.Toyota toyota = new example_1.Toyota();
         Celica celica = new Celica();
         workInTaxi(celica);
     }
